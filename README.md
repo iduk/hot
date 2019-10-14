@@ -1,2 +1,2 @@
-# next
-Next.js Learning Start.
+# 🤯
+Never Ending Story...
