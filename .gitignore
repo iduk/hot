@@ -54,12 +54,13 @@ typings/
 # dotenv environment variables file
 .env
 
-# gatsby files
+# files
 .cache/
 public
 
 # Mac files
 .DS_Store
+oh-my-zsh.sh
 
 # Yarn
 yarn-error.log
